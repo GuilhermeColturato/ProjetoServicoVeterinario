@@ -18,13 +18,18 @@ APIs principais, com autenticação baseada em JWT (JSON Web Token) para garanti
     • Quarta para executar: Servico API
   
 
-**Endpoints disponíveis:**
+### Endpoints disponíveis:
+
 Auth API: localhost:8081/auth/login
+
 Pessoa API: localhost:8082/pessoa
+
 Animal API: localhost:8083/animal
+
 Servico API: localhost:8084/servico
 
-**Como autenticar no postman**  
+
+### Como autenticar no postman
 - Fazer um post da Auth API para gerar o token
 - Vá em Body -> raw
 - Mude de text para JSON e insira as informações
