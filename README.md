@@ -1,5 +1,4 @@
-# Desenvolvimento de um Sistema de
-Gerenciamento de Serviços Veterinários com Autenticação JWT
+# Desenvolvimento de um Sistema de Gerenciamento de Serviços Veterinários com Autenticação JWT
 
 **Descrição:**
 Conjunto de APIs RESTful que compõem um
