@@ -1,15 +1,13 @@
 # Desenvolvimento de um Sistema de Gerenciamento de Serviços Veterinários com Autenticação JWT
 
 **Descrição:**
-Conjunto de APIs RESTful que compõem um
-sistema de gerenciamento de serviços veterinários. O sistema será composto por quatro
-APIs principais, com autenticação baseada em JWT (JSON Web Token) para garantir
-segurança no acesso às rotas protegidas.
+Conjunto de APIs RESTful que compõem um sistema de gerenciamento de serviços veterinários. O sistema será composto por quatro
+APIs principais, com autenticação baseada em JWT (JSON Web Token) para garantir segurança no acesso às rotas protegidas.
 
 ## Para rodar o sistema
-1.Clonar este repositório
-2.Ter instalado o MongoDB Compass e criar a conexão "servet"
-3.Compilar e executar cada API:
+1. Clonar este repositório
+2. Ter instalado o MongoDB Compass e criar a conexão "servet"
+3. Compilar e executar cada API:
   • Primeira para executar: Auth API
   • Segunda para executar: Pessoa API
   • Terceira para executar: Animal API
