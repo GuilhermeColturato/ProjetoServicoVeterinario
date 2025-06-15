@@ -8,13 +8,14 @@ APIs principais, com autenticação baseada em JWT (JSON Web Token) para garanti
 1. Clonar este repositório
 2. Ter instalado o MongoDB Compass e criar a conexão "servet"
 3. Compilar e executar cada API:
-  • Primeira para executar: Auth API
+   
+    • Primeira para executar: Auth API
 
-  • Segunda para executar: Pessoa API
+    • Segunda para executar: Pessoa API
   
-  • Terceira para executar: Animal API
+    • Terceira para executar: Animal API
   
-  • Quarta para executar: Servico API
+    • Quarta para executar: Servico API
   
 
 **Endpoints disponíveis:**
