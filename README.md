@@ -33,9 +33,13 @@ APIs principais, com autenticação baseada em JWT (JSON Web Token) para garanti
 - Fazer um post da Auth API para gerar o token
 - Vá em Body -> raw
 - Mude de text para JSON e insira as informações
+  
 {
+
   "login": "admin@gmail.com",
+  
   "senha": "123456"
+  
 }
 
 - Fazer os posts das outras respectivas apis utilizando o token gerado:
